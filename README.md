@@ -83,7 +83,7 @@ The BLE data can be received using apps like **nRF Connect**:
 * ✔ Sensors integrated
 * ✔ Dominant variation detection implemented
 * ✔ BLE communication working
-* 🔄 Cloud integration (in progress)
+
 
 👤 **Author**
 Kuraganti Naga Pallavi
